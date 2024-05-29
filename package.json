@@ -1,12 +1,14 @@
 {
   "dependencies": {
+    "chalk": "^4.1.2",
     "readline-sync": "^1.4.10"
   },
+  
   "name": "understanding-js",
   "description": "1. learning about the variable, function,array,object and many more",
   "version": "1.0.0",
+  "type": "module",
   "main": "index.js",
-  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
